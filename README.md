@@ -14,8 +14,6 @@ All the fields must be completed to get the weather
 
 ### clone this repo.
 
-- open the terminal
-- cd backend
 - install the package, npm install
 - run the serve
 
